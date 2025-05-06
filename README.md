@@ -1,5 +1,7 @@
 # 💫 About Me:
-🎓 Engineering Student | Tech + Design Enthusiast<br>📌 Secretary, ACM — Leading the largest student chapter with innovation & impact<br>💼 Secretary, E-Cell — Fueling entrepreneurship one event at a time<br>🖋️ Newsletter Editor — Turning campus stories into compelling reads<br>🧠 Researching AI for disease outbreak prediction | XGBoost + GPT<br>🎨 Design Head, Math Club — Merging logic with creativity<br>🌐 Passionate about building scalable, secure AI systems<br>✨ Your future R&D pro in the making<br><br>Actively looking for internships<br>
+🎓 Engineering Student | Tech + Design Enthusiast<br>📌 Secretary, ACM — Leading the largest student chapter with innovation & impact<br>💼 Secretary, E-Cell — Fueling entrepreneurship one event at a time<br>🖋️ Newsletter Editor — Turning campus stories into compelling reads<br>🧠 Researching AI for disease outbreak prediction | XGBoost + GPT<br>🎨 Design Head, Math Club — Merging logic with creativity<br>🌐 Passionate about building scalable, secure AI systems<br>✨ Your future R&D pro in the making<br>💡 Interests: Neuromorphic computing, cybersecurity, and crafting intelligent automation systems that think and adapt like humans.<br>
+
+📣 Actively looking for internships<br>Actively looking for internships<br>
 
 
 ## 🌐 Socials:
