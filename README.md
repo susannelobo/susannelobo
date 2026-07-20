@@ -1,5 +1,5 @@
 # 💫 About Me:
-🎓 BE Class of 26 | Data + CyberSecurity Enthusiast<br>📌 
+🎓 BE Class of 26 | Data + CyberSecurity Enthusiast<br>
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/susannelobo) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/susanne-lobo42244224) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:susannelobo05@gmail.com) 
